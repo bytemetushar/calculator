@@ -63,17 +63,21 @@ button{
     button{
         width: 45px;
         height: 45px;
+        font-size: 20px;
     }
     input{
         width: 250px;
+        font-size: 35px;
     }
 }
 @media screen and (max-width: 320px){
     button{
         width: 35px;
         height: 35px;
+        font-size: 18px;
     }
     input{
         width: 200px;
+        font-size: 30px;
     }
 }
